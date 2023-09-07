@@ -133,16 +133,19 @@ Sensitive information and configuration settings are stored in a .env file and l
 # Usage:
 
 1.The landing page of the application
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/0be2bbb0-9d67-4f65-8146-f8609171f19e)
+[image](https://github.com/HarikowshikMolugu/searchFunctionality_Frontend/assets/104977337/cbe8bc4b-3a4e-497a-8eb8-a62aba5fcba2)
+
 
 
 
 
 2.The Search button is used for Server side search: Invokes API call, enter the search query in the input field and click the Search button so that the data will be filtered based on query and display it in the below table format.
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/9b56e5aa-f396-4c65-83a1-39bf391a6186)
+[image](https://github.com/HarikowshikMolugu/searchFunctionality_Frontend/assets/104977337/cf9865d4-c544-418a-9bc0-4046687d6632)
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/566d06d1-d41c-4be1-aafe-7d39f2a12bde)
+
+[image](https://github.com/HarikowshikMolugu/searchFunctionality_Frontend/assets/104977337/413c9a04-7bc1-42fe-9bae-3dec120cb524)
+
 
 
 3.Searching the data at the individual columns: It is a client side search it does not invoke the API call.

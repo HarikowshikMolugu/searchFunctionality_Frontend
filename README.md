@@ -69,9 +69,6 @@ The frontend of the application is built using React.js and utilizes several lib
 
 •	React.js: A JavaScript library for building user interfaces.
 
-•	React Paginate: A pagination component for React.
-
-•	Axios: A promise-based HTTP client for making API requests.
 ## Component Structure
 The frontend consists of two main components:
 
@@ -95,13 +92,7 @@ The backend of the application is built using Node.js and utilizes various libra
 
 •	Node.js: A JavaScript runtime for building scalable server-side applications.
 
-•	Express.js: A web application framework for Node.js.
-
-•	Multer: Middleware for handling file uploads.
-
-•	dotenv: A module for loading environment variables.
-
-•	fs and path: Node.js modules for file system operations and path manipulation.
+•	Express.js: A web application framework for Node.js
 
 ## Project Structure
 The backend follows a structured project layout:
